@@ -4,7 +4,7 @@ A professional landing page for a digital banking service.
 The challenge focuses on flexible layouts and clean visual hierarchy.
 
 ## 📸 Preview
-![preview]()
+![preview](./design/drvrrf1ktzojmosdilxt.webp)
 
 ## 🚀 Features
 - Responsive navbar and hero section
@@ -18,5 +18,5 @@ The challenge focuses on flexible layouts and clean visual hierarchy.
 - JavaScript (optional for menu toggle)
 
 ## 🌐 Live Demo
-[View Live Project]()
+[View Live Project] (https://mohamed-abdalla-dev.github.io/Digital-bank-landing-page-html-css/)
 
